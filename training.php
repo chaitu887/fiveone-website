@@ -80,8 +80,10 @@ include './header.php'
             <i class="mdi mdi-desktop-mac text-custom"></i>
           </div>
           <h2 class="text-dark mt-4">Web Designing</h2>
-          <p class="text-muted mt-3">Laravel is a PHP framework wich uses MVC Structure to make it easy for users to
-            craft high speed beautiful web application with clean and pretty coding structure</p>
+          <p class="text-muted mt-3">Web design has numerous components that work together to create the finished
+            experience of a website, including graphic design, user experience design, interface design, search engine
+            optimization (SEO) and content creation. These elements determine how a website looks, feels and works on
+            various devices.</p>
         </div>
       </div>
 
@@ -91,8 +93,9 @@ include './header.php'
             <i class="mdi mdi-database text-custom"></i>
           </div>
           <h2 class="text-dark mt-4">Introduction to Databases using SQL Server</h2>
-          <p class="text-muted mt-3">Laravel is a PHP framework wich uses MVC Structure to make it easy for users to
-            craft high speed beautiful web application with clean and pretty coding structure</p>
+          <p class="text-muted mt-3">SQL stands for Structured Query Language. SQL allows us to interact with relational
+            databases through queries. These queries can allow you to perform a number of actions such as: insert,
+            select, update and delete information in a database.</p>
         </div>
       </div>
 
